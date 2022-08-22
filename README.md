@@ -2,5 +2,6 @@
 
 Integrantes:
 
-ALan Pastelin Cruz
+Alan Pastelin Cruz
+
 Bella Samara Alcaraz Lopez
