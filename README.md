@@ -4,4 +4,4 @@ Integrantes:
 
 Alan Pastelin Cruz
 
-Bella Samara Alcaraz Lopez
+Miriam Moreno Robles
