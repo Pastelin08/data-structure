@@ -4,4 +4,3 @@ Integrantes:
 
 Alan Pastelin Cruz
 
-Miriam Moreno Robles
